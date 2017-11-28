@@ -3,8 +3,9 @@ This is a test repository for teaching GitHub.
 
 ## More sections
 
--apples
-  +fuji
-  +gala
--bananas
--oranges
+- apples
+  + fuji
+  + gala
+- bananas
+- oranges
+- kiwi
