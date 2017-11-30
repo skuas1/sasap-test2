@@ -10,7 +10,7 @@ escapement <- read.csv("knb.92020.1.csv",
  
 
 ```
-```{r, include= FALSE}
+```{r, echo= FALSE}
 suppressPackageStartupMessages({
   library(tidyr)
   library(dplyr)
